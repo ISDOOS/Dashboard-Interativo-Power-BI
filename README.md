@@ -31,4 +31,4 @@ Foram utilizados indicadores e botões para permitir que os leitores selecionem 
 
 3. **Foi submetido** o projeto através do link no GitHub fornecido para avaliação.
 
-4. **Foi satisteito** o desafio através do módulo do Bootcamp Santander - Ciêcia de dados.
+4. **Foi satisteito** o desafio através do módulo do Bootcamp Santander - Ciência de dados.
